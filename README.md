@@ -1,0 +1,2 @@
+# kashin_zaynutdinov
+Гироскутер
